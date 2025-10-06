@@ -14,4 +14,4 @@
 
 ## Archiecture
 
-![architecture](./archiecture.jpeg)
+![architecture](https://github.com/Abdul-Ghufran-Khan/ELT_with_python/blob/main/etl-with-python/archiecture.jpeg?raw=true)
